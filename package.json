@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "basic-ftp": "^5.0.2",
+    "fs": "^0.0.1-security",
+    "stream": "^0.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.13.0"
+  }
+}
